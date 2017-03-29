@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pack>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="1" fixedrot="false" fric="0.2" gid="3" id="0" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Blue" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="1" static="false">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="125" id="1" name="Blue" shared="false" width="125">
+        <anim across="1" down="1" durations="100" height="125" id="0" loop="true" name="Animation 0" numframes="1" originx="62" originy="62" sync="false" version="2" width="125">
+            <poly data="4,0,0,125,0,125,125,0,125" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <background atlasID="0" desc="" durations="100" dx="-0.0" dy="-0.0" height="320" id="3" name="GreenSpotlight BG" numframes="1" oid="-1" repeats="false" resized="false" shared="false" width="500" xpf="0.0" ypf="0.0"/>
+    <background atlasID="0" desc="" durations="100" dx="-0.0" dy="-0.0" height="639" id="4" name="Space" numframes="1" oid="-1" repeats="false" resized="false" shared="false" width="1084" xpf="1.0" ypf="1.0"/>
+</pack>
